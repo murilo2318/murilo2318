@@ -6,7 +6,7 @@ Desenvolvo produtos que combinam **Inteligência Artificial, software e dados** 
 da experimentação à implementação, transformando ideias em sistemas funcionais, bem estruturados e documentados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-benhossi)
-[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo-ABC-263C7C?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo-263C7C?style=flat-square&logo=googlemaps&logoColor=white)]()
 
 ## O que eu construo
 
