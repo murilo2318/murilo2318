@@ -1,34 +1,99 @@
 # Murilo de Faria Benhossi
 
-**Estudante de Inteligência Artificial na FIAP** · Estagiário em Convista · Python · Machine Learning · Engenharia de Software · Sistemas Agênticos.
+**Estudante de Inteligência Artificial na [FIAP](https://www.fiap.com.br)** · Estagiário na Convista · IA, Software e Dados
 
-Desenvolvo produtos que combinam **Inteligência Artificial, software e dados** —  
-da experimentação à implementação, transformando ideias em sistemas funcionais, bem estruturados e documentados.
+Desenvolvo sistemas agênticos, aplicações completas e pipelines de dados que
+transformam ideias em software funcional, bem estruturado e documentado.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-benhossi)
-[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo-263C7C?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:murilobenhossi@gmail.com)
+![Location](https://img.shields.io/badge/São_Paulo-Brasil-26372C?style=flat-square&logo=googlemaps&logoColor=white)
 
 ## O que eu construo
 
-- **IA aplicada e sistemas agênticos** — agentes, automações e fluxos de desenvolvimento assistidos por IA, com contexto persistente, memória de projeto, validações e processos de aprovação para mudanças estruturais.
-- **Produtos e aplicações completas** — desenvolvimento de sistemas que conectam backend, bancos de dados, interfaces e regras de negócio, com foco em confiabilidade, organização e experiência do usuário.
-- **Dados, Machine Learning e IoT** — pipelines de dados, experimentação com modelos, telemetria, sensores e integração entre sistemas físicos e digitais.
-- **Engenharia e documentação técnica** — arquitetura, testes, versionamento, documentação de decisões e produção de materiais técnicos e acadêmicos com padrões consistentes de qualidade.
+- **Sistemas agênticos** — agentes e fluxos assistidos por IA com contexto
+  persistente, memória de projeto, validações e pontos de aprovação humana.
+- **Aplicações completas** — backend, banco de dados, interface e regras de
+  negócio integrados, com foco em confiabilidade e experiência do usuário.
+- **Dados, ML e IoT** — pipelines de dados, experimentação com modelos,
+  telemetria e integração entre sistemas físicos e digitais.
+
+Na **Convista**, aplico esse trabalho a integrações SAP BTP, documentação
+técnica e processos de negócio reais.
 
 ## Projetos em destaque
 
-| Projeto                              | O que demonstra                                                                                                                                                          | Stack                                          |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **Carteira Clara**                   | Sistema completo de gestão financeira pessoal, com dashboard, receitas, despesas, categorias, importações, planejamento, autenticação e regras robustas de consistência. | `Python` `Flask` `SQLite` `Jinja` `JavaScript` |
-| **UrbanSense 2.0**                   | Nó de sensoriamento IoT baseado em ESP32, com coleta de dados ambientais e publicação de telemetria através de WiFi e MQTT.                                             | `C++` `ESP32` `MQTT` `HiveMQ`                  |
-| **Digital Twin — Apartamento**       | Pipeline experimental para reconstrução e representação 3D de ambientes a partir de fotografias, referências visuais e plantas arquitetônicas.                          | `Blender` `Python` `3D`                        |
-| **Forzy — Gêmeo Digital Industrial** | Plataforma acadêmica de gêmeo digital aplicada ao monitoramento de motores industriais, desenvolvida no contexto do FIAP Challenge.                                     | `Python` `IoT` `Digital Twin`                  |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/featured-work-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/featured-work-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/featured-work-light.svg" alt="Composição de linguagens e última atualização de projetos públicos selecionados de Murilo Benhossi" />
+</picture>
 
-## Ferramentas e temas
+| Projeto | O que demonstra | Stack |
+| --- | --- | --- |
+| **[Forzy — Gêmeo Digital Industrial](https://github.com/murilo2318/forzy-sprint3)** | Plataforma de gêmeo digital para motores industriais, com painel de alertas, estados operacionais, resumos em NLP e recomendações de manutenção. | `Python` `IoT` `NLP` `Digital Twin` |
+| **[FIAP AI Chatbot](https://github.com/murilo2318/fiap-chatbot-rag)** | API de RAG que conecta modelos da OpenAI a um banco vetorial Qdrant para responder com base em documentos. | `Python` `FastAPI` `Qdrant` `OpenAI` `Docker` |
+| **[UrbanSense 2.0](https://github.com/murilo2318/UrbanSense-2.0)** | Nó de sensoriamento IoT com ESP32, coleta de dados ambientais e publicação de telemetria via WiFi e MQTT. | `C++` `ESP32` `MQTT` `HiveMQ` |
+| **Carteira Clara** *(privado)* | Sistema completo de gestão financeira pessoal, com dashboard, receitas, despesas, importações, planejamento e regras de consistência. | `Python` `Flask` `SQLite` `Jinja` `JavaScript` |
 
-`Python` · `Machine Learning` · `Deep Learning` · `Flask` · `SQLite` · `Jinja` · `JavaScript` ·  
-`Git` · `Claude Code` · `Sistemas Agênticos` · `Automação` · `IoT` · `MQTT` · `Blender` · `SAP BTP`.
+O gráfico é atualizado diariamente a partir das APIs públicas de repositórios e
+linguagens do GitHub. Ele mostra apenas código público selecionado.
+
+## Como desenvolvo com IA
+
+```text
+  CONTEXTO           →  o projeto registra regras, decisões e histórico
+     ↓
+  PLANO              →  a mudança é descrita e aprovada antes do código
+     ↓
+  EXECUÇÃO ASSISTIDA →  agentes de IA implementam em etapas pequenas
+     ↓
+  REVISÃO HUMANA     →  testes, diff e validação antes de integrar
+```
+
+A IA acelera a execução, mas as decisões estruturais continuam passando por
+aprovação. Cada projeto guarda o próprio contexto, para que o próximo passo
+comece de onde o anterior parou.
+
+## Ferramentas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=dark&perline=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=light&perline=10" alt="Python, Flask, FastAPI, SQLite, JavaScript, C++, Arduino/ESP32, Blender, Docker e GitHub Actions" />
+</picture>
+
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="40" height="40" alt="Claude" title="Claude" />&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
+</picture>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png" width="40" height="40" alt="Gemini" title="Gemini" />
+
+`Sistemas agênticos` · `RAG` · `Machine Learning` · `IoT` · `MQTT` ·
+`Claude Code` · `SAP BTP` · `Documentação técnica`
+
+## Trilha de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/contribution-trail-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/contribution-trail-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/murilo2318/murilo2318/visuals/assets/contribution-trail-light.svg" alt="Trilha animada pelo calendário de contribuições de Murilo Benhossi no GitHub" />
+</picture>
+
+## Princípios de trabalho
+
+- Tornar restrições e resultados explícitos antes de escalar a execução.
+- Dar aos sistemas de IA o contexto, as ferramentas e a memória de que precisam.
+- Manter decisões rastreáveis, dos dados de origem ao comportamento do usuário.
+- Construir o caminho de verificação junto com o de implementação.
 
 ## Formação
 
 **FIAP** — Tecnólogo em Inteligência Artificial (2º ano, em andamento).
+
+---
+
+<div align="center">
+  <sub>Contexto → plano → execução → revisão.</sub>
+</div>
