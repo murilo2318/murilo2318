@@ -58,20 +58,17 @@ comece de onde o anterior parou.
 ## Ferramentas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=dark&perline=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=light&perline=10" />
-  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,sqlite,js,cpp,arduino,blender,docker,githubactions&theme=light&perline=10" alt="Python, Flask, FastAPI, SQLite, JavaScript, C++, Arduino/ESP32, Blender, Docker e GitHub Actions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cflask%2Cfastapi%2Csqlite%2Cjs%2Ccpp%2Carduino%2Cblender%2Cdocker%2Cgithubactions&amp;theme=dark&amp;perline=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cflask%2Cfastapi%2Csqlite%2Cjs%2Ccpp%2Carduino%2Cblender%2Cdocker%2Cgithubactions&amp;theme=light&amp;perline=10" />
+  <img src="https://skillicons.dev/icons?i=py%2Cflask%2Cfastapi%2Csqlite%2Cjs%2Ccpp%2Carduino%2Cblender%2Cdocker%2Cgithubactions&amp;theme=light&amp;perline=10" alt="Python, Flask, FastAPI, SQLite, JavaScript, C++, Arduino/ESP32, Blender, Docker e GitHub Actions" />
 </picture>
 
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="40" height="40" alt="Claude" title="Claude" />&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" />
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="40" height="40" alt="ChatGPT" title="ChatGPT" />
-</picture>&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png" width="40" height="40" alt="Gemini" title="Gemini" />
+**IA no dia a dia**
 
-`Sistemas agênticos` · `RAG` · `Machine Learning` · `IoT` · `MQTT` ·
-`Claude Code` · `SAP BTP` · `Documentação técnica`
+<p>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="44" height="44" alt="Claude" title="Claude" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" /><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="44" height="44" alt="ChatGPT" title="ChatGPT" /></picture>&nbsp;&nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png" width="44" height="44" alt="Gemini" title="Gemini" />
+</p>
+
 
 ## Trilha de contribuições
 
