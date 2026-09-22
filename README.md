@@ -36,8 +36,6 @@ Na **Convista**, trabalho com integrações SAP BTP, documentação técnica e p
 | **[UrbanSense 2.0](https://github.com/murilo2318/UrbanSense-2.0)** | Nó de sensoriamento IoT com ESP32, coleta de dados ambientais e publicação de telemetria via WiFi e MQTT. | `C++` `ESP32` `MQTT` `HiveMQ` |
 | **Carteira Clara** *(privado)* | Sistema completo de gestão financeira pessoal, com dashboard, receitas, despesas, importações, planejamento e regras de consistência. | `Python` `Flask` `SQLite` `Jinja` `JavaScript` |
 
-O gráfico é atualizado diariamente a partir das APIs públicas de repositórios e linguagens do GitHub. Ele mostra apenas código público selecionado.
-
 ## Como desenvolvo com IA
 
 ```text
