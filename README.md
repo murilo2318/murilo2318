@@ -2,7 +2,7 @@
 
 **Estudante de Inteligência Artificial na [FIAP](https://www.fiap.com.br/)** · Estagiário na Convista · IA, Software e Dados
 
-Desenvolvo sistemas agênticos, aplicações completas e produtos orientados por dados, transformando ideias e experimentos em software funcional, testável, bem estruturado e documentado.
+Desenvolvo sistemas agênticos , aplicações completas e produtos orientados por dados, transformando ideias e experimentos em software funcional, testável, bem estruturado e documentado.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-benhossi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:murilobenhossi@gmail.com)
@@ -10,7 +10,7 @@ Desenvolvo sistemas agênticos, aplicações completas e produtos orientados por
 
 ## O que eu construo
 
-- **Sistemas agênticos** — agentes e fluxos assistidos por IA com contexto persistente, memória de projeto, validações e pontos de aprovação humana.
+- **Sistemas agênticos ** — agentes e fluxos assistidos por IA com contexto persistente, memória de projeto, validações e pontos de aprovação humana.
 - **Aplicações completas** — backend, banco de dados, interface e regras de negócio integradas, com foco em confiabilidade e experiência do usuário.
 - **Dados, ML e IoT** — pipelines de dados, experimentação com modelos, telemetria e integração entre sistemas físicos e digitais.
 - **Engenharia e documentação** — arquitetura, testes, versionamento, documentação técnica e registro de decisões.
