@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="476" viewBox="0 0 900 476" role="img" aria-labelledby="title description">
+  <title id="title">Projetos selecionados, direto do GitHub</title>
+  <desc id="description">Composição de linguagens e última atualização pública de projetos selecionados de Murilo Benhossi.</desc>
+  <style>
+    text { font-family: "Segoe UI", "Trebuchet MS", sans-serif; }
+    .kicker { fill: #e3a857; font-size: 12px; font-weight: 700; letter-spacing: 2.4px; }
+    .title { fill: #f0eadf; font-size: 28px; font-weight: 650; letter-spacing: -0.4px; }
+    .caption { fill: #8fa095; font-size: 13px; }
+    .eyebrow { fill: #e3a857; font-size: 10px; font-weight: 700; letter-spacing: 1.6px; }
+    .project { fill: #f0eadf; font-size: 18px; font-weight: 650; }
+    .summary { fill: #c6d1c8; font-size: 13px; }
+    .updated { fill: #8fa095; font-size: 12px; }
+    .legend { fill: #c6d1c8; font-size: 11px; }
+    .footer { fill: #8fa095; font-size: 10px; letter-spacing: 0.3px; }
+    .bar-segment { transform-box: fill-box; transform-origin: left; animation: reveal 650ms cubic-bezier(0.16, 1, 0.3, 1) both; }
+    @keyframes reveal { from { transform: scaleX(0); opacity: 0.65; } to { transform: scaleX(1); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .bar-segment { animation: none; } }
+  </style>
+  <rect width="900" height="476" fill="#171e19" />
+  <text x="48" y="38" class="kicker">CÓDIGO PÚBLICO</text>
+  <text x="48" y="72" class="title">Projetos selecionados, direto do GitHub</text>
+  <text x="48" y="98" class="caption">Metadados dos repositórios e bytes por linguagem · apenas trabalhos públicos</text>
+  <g>
+    <text x="48" y="132" class="eyebrow">INTELIGÊNCIA INDUSTRIAL</text>
+    <text x="48" y="160" class="project">Forzy — Gêmeo Digital</text>
+    <text x="360" y="160" class="summary">Digital twin · alertas · recomendações de manutenção</text>
+    <text x="852" y="160" text-anchor="end" class="updated">atualizado ago 2026</text>
+    <rect x="48" y="179" width="804" height="10" fill="#29342d" />
+    <rect class="bar-segment" style="animation-delay:0ms" x="48.00" y="179" width="804.00" height="10" fill="#3572a5" />
+    <circle cx="52" cy="208" r="4" fill="#3572a5" /><text x="63" y="212" class="legend">Python 100%</text>
+    <line x1="48" y1="227" x2="852" y2="227" stroke="#344239" />
+  </g>
+  <g>
+    <text x="48" y="236" class="eyebrow">IA GENERATIVA</text>
+    <text x="48" y="264" class="project">FIAP AI Chatbot</text>
+    <text x="360" y="264" class="summary">RAG · FastAPI · banco vetorial Qdrant</text>
+    <text x="852" y="264" text-anchor="end" class="updated">atualizado mai 2026</text>
+    <rect x="48" y="283" width="804" height="10" fill="#29342d" />
+    <rect class="bar-segment" style="animation-delay:90ms" x="48.00" y="283" width="782.91" height="10" fill="#3572a5" /><rect class="bar-segment" style="animation-delay:145ms" x="830.91" y="283" width="21.09" height="10" fill="#5c7f8c" />
+    <circle cx="52" cy="312" r="4" fill="#3572a5" /><text x="63" y="316" class="legend">Python 97%</text><circle cx="210" cy="312" r="4" fill="#5c7f8c" /><text x="221" y="316" class="legend">Dockerfile 3%</text>
+    <line x1="48" y1="331" x2="852" y2="331" stroke="#344239" />
+  </g>
+  <g>
+    <text x="48" y="340" class="eyebrow">IOT &amp; TELEMETRIA</text>
+    <text x="48" y="368" class="project">UrbanSense 2.0</text>
+    <text x="360" y="368" class="summary">ESP32 · sensores ambientais · MQTT</text>
+    <text x="852" y="368" text-anchor="end" class="updated">atualizado mai 2026</text>
+    <rect x="48" y="387" width="804" height="10" fill="#29342d" />
+    <rect class="bar-segment" style="animation-delay:180ms" x="48.00" y="387" width="804.00" height="10" fill="#f34b7d" />
+    <circle cx="52" cy="416" r="4" fill="#f34b7d" /><text x="63" y="420" class="legend">C++ 100%</text>
+    <line x1="48" y1="435" x2="852" y2="435" stroke="#344239" />
+  </g>
+  <text x="852" y="458" text-anchor="end" class="footer">GITHUB REST API · GERADO EM 2026-09-26</text>
+</svg>
